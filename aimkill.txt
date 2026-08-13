@@ -1,0 +1,85 @@
+XITERS AIMKILL
+
+𝗔𝗶𝗺𝗯𝗼𝘁:
+[+] Silent Aim
+[+] Aimbot Neck
+[+] Aimbot Rage X
+[+] Aimbot AI
+[+] Aim AWM
+[+] Aimlock X
+
+𝗢𝗽𝗰𝗶𝗼𝗻𝗲𝘀:
+[+] Show FOV
+[+] Custom FOV
+[+] No Recoil
+[+] No Reload
+[+] Sniper Scope
+
+𝗘𝘀𝗽: (Visualización)
+[+] ESP Lines
+[+] ESP Box
+[+] ESP Health
+[+] ESP Info
+[+] ESP Bones
+[+] Weapons Icon
+[+] ESP Cronómetro
+[+] Wukong ESP
+
+𝗙𝘂𝗻𝗰𝗶𝗼𝗻𝗲𝘀 𝗮𝘃𝗮𝗻𝘇𝗮𝗱𝗮𝘀:
+[+] Bug Cámara
+[+] Modo Noche
+[+] Vision Hack
+[+] Custom View
+[+] Fly X
+[+] Wallhack X
+[+] Wallhack X N32
+[+] TP Base
+[+] Telekill
+[+] Player MoveX V2
+
+𝗙𝗶𝘅 𝗹𝗮𝗴:
+[+] Enable Auto Lag
+[+] Fix V2
+[+] Ghost Mode
+[+] Freeze
+[+] Infinite
+
+𝗙𝘂𝗻𝗰𝗶𝗼𝗻𝗲𝘀 𝗲𝘅𝘁𝗿𝗮:
+[+] Teleport X
+[+] Off Altura
+[+] Levitar X
+[+] Speed Memory
+[+] Fake Damage
+[+] Mira Bonita
+[+] Speed Fire X
+[+] Speed X99
+[+] Under X
+
+𝗙𝘂𝗻𝗰𝗶𝗼𝗻𝗲𝘀 𝗱𝗲 𝗮𝗿𝗺𝗮𝘀:
+[+] Macros X
+[+] Scope Track
+[+] Rapid Fire X
+[+] Rapid Fire X Custom
+
+𝗘𝗻𝘁𝗶𝘁𝘆 𝗽𝗿𝗶𝗼𝗿𝗶𝘁𝘆:
+[+] Prioridad de objetivos
+[+] Enable Priority
+[+]Show Entity List
+
+𝗟𝗼𝗮𝗱 / 𝗦𝗮𝘃𝗲:
+[+] Guardar Configuración
+[+] Borrar Configuración
+[+] Refrescar Lista
+[+] Cargar Configuración
+
+Show Case - New Features:
+[+] Aimkill X - Send 360 (Version Beta)
+[+] Teleport Glider X
+[+] Auto Round Start (Fly, Teleport)
+[+] Downkill X
+
+OFFICIAL PRICES
+
+1 dia = 3$ USD
+1 semana = 8$ USD
+1 mes = 22$ USD
